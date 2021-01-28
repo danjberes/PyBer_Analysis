@@ -6,6 +6,7 @@ The purpose of this challenge was to create a dataframe of PyBer ride sharing by
 ## Results
 When looking at the analysis of the PyBer summary created, it can be noted that as the number of rides increase the average fare for each ride goes down. Looking at this data in a vacuum one could come to the conclusion that this could be due to the lower amount of drivers or rides in rural areas that could potentially be responsible for higher average fares, as opposed to an urban area where there are more drivers available and a higher amount of rides.
 ![PyBerSummary](./Resources/PyBerSummary.png)
+
 Something that is not considered within this dataset is the amount of distance travelled. This could heavily affect data as it might be assumed the urban settings would have less distance to travel when compared to rural settings.
 
 Total fares would be expected to increase with population which is what you see in the "Total Fare by City Type" chart below. With both more people available to be drivers and more demand for drivers the amount of rides occuring would increase in a more populated (urban) setting versus a less populated (rural) setting.
